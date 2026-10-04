@@ -8,6 +8,8 @@
    # Appending a second line to the file 
    echo A second line added to this file using the redirection operator >> draft.txt
 
+   #reflecting the output using cat 
+   cat draft.txt
    # copying the file to another one
     cp draft.txt draft_backup.txt
 
@@ -17,8 +19,5 @@
     # creating temporary file and deleting it
      touch temp_file.txt
      rm temp_file.txt
-  
-
-
 
 
