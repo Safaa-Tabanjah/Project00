@@ -1,0 +1,25 @@
+ ## since the run_log.txt can not save the terminal output to run_log.txt directly, I am going to
+# define the output step by step
+
+# the result of running the script file ./manage_file .sh after changing the permissions using 
+# chmod +x manage_file.txt
+
+draft.txt
+final_report.txt
+manage_files.sh
+run_log.txt
+
+# the content of final_report.txt
+this is a draft file for Exercise 01: File Manipulation
+
+A second line added to this file using the redirection operator
+
+
+# the content of draft.txt file
+
+this is a draft file for Exercise 01: File Manipulation
+A second line added to this file using the redirection operator
+
+
+# you will find the content of the script in manage_file.sh
+

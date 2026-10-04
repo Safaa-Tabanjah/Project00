@@ -1,0 +1,2 @@
+this is a draft file for Exercise 01: File Manipulation
+A second line added to this file using the redirection operator

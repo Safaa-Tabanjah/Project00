@@ -1,0 +1,41 @@
+.:
+total 4
+drwxr-xr-x  5 sal-taba _amman   73 Sep 30 14:19 .
+drwx------ 17 sal-taba _amman 4096 Sep 30 14:06 ..
+drwxr-xr-x  2 sal-taba _amman    6 Sep 30 13:37 archives
+drwxr-xr-x  3 sal-taba _amman   17 Sep 30 13:40 projects
+drwxr-xr-x  2 sal-taba _amman    6 Sep 30 13:37 tools
+-rw-r--r--  1 sal-taba _amman    0 Sep 30 14:19 tree_structure
+
+./archives:
+total 0
+drwxr-xr-x 2 sal-taba _amman  6 Sep 30 13:37 .
+drwxr-xr-x 5 sal-taba _amman 73 Sep 30 14:19 ..
+
+./projects:
+total 0
+drwxr-xr-x 3 sal-taba _amman 17 Sep 30 13:40 .
+drwxr-xr-x 5 sal-taba _amman 73 Sep 30 14:19 ..
+drwxr-xr-x 4 sal-taba _amman 37 Sep 30 13:41 web
+
+./projects/web:
+total 0
+drwxr-xr-x 4 sal-taba _amman 37 Sep 30 13:41 .
+drwxr-xr-x 3 sal-taba _amman 17 Sep 30 13:40 ..
+drwxr-xr-x 2 sal-taba _amman  6 Sep 30 13:41 backend
+drwxr-xr-x 2 sal-taba _amman  6 Sep 30 13:40 frontend
+
+./projects/web/backend:
+total 0
+drwxr-xr-x 2 sal-taba _amman  6 Sep 30 13:41 .
+drwxr-xr-x 4 sal-taba _amman 37 Sep 30 13:41 ..
+
+./projects/web/frontend:
+total 0
+drwxr-xr-x 2 sal-taba _amman  6 Sep 30 13:40 .
+drwxr-xr-x 4 sal-taba _amman 37 Sep 30 13:41 ..
+
+./tools:
+total 0
+drwxr-xr-x 2 sal-taba _amman  6 Sep 30 13:37 .
+drwxr-xr-x 5 sal-taba _amman 73 Sep 30 14:19 ..
